@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SJ Pop Movies</string>
+    <string name="main_act_name">Pop Movies</string>
+    <string name="detail_act_name">MovieDetail</string>
+    <string name="sort_by_popular_item_name">Sort by most popular</string>
+    <string name="sort_by_top_rated_item_name">Sort by top rated</string>
+    <string name="movie_thumbnail_image_view_desc">movie thumbnail</string>
+
+</resources>
